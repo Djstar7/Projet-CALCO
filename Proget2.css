@@ -1,0 +1,36 @@
+
+#calco input[type="button"]{
+    border-radius: 10%;
+    border-collapse: collapse;
+}
+#ecran input[type="button"]{
+    color: blue;
+    stroke-width: 100%;
+}
+#fonction input[type="button"]{
+    background-color: red;
+    color: white;
+}
+
+#fonctionTrigo input[type="button"]{
+    color: black;
+    
+}
+
+#fonction input[value="="]{
+    background-color: green;
+    color: white;
+    border-radius: 100%;
+}
+
+
+
+
+#signe input[type="button"]{
+    background-color: gray;
+    color: white;
+}
+#chiffre input[type="button"]{
+    background-color: rgba(211, 211, 211, 0.74);
+    color: white;
+}
